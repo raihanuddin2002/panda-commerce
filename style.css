@@ -1,0 +1,48 @@
+/* ====================
+    1.COMMON CSS
+======================= */
+
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-misty {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.text-misty {
+    color: #FF136F;
+}
+
+
+/* ====================
+    1.HERO CSS
+======================= */
+
+.hero {
+    background: #FEEAE9;
+}
+
+
+/* ====================
+    2.CATEGORY CSS
+======================= */
+
+.cat-rad {
+    border-radius: 15px;
+}
+
+
+/* ====================
+    3.FOOTER CSS
+======================= */
+
+.input {
+    width: 200px;
+    height: 50px;
+}
+
+.s-img {
+    width: 142px;
+}
